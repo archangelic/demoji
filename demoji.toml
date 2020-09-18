@@ -1,0 +1,5 @@
+nickname = "demoji"
+channels = ["#tildetown"]
+server = "localhost"
+ops = ["archangelic"]
+disable_help = true
